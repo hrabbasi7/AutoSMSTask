@@ -1,0 +1,2 @@
+INSERT INTO vopium.sms_type (VALUE, description) VALUES ('S', 'Signup Package Used 5 min left SMS'); // critera 2
+INSERT INTO vopium.sms_type (VALUE, description) VALUES ('N', 'Not Made Any Calls on Signup Package SMS'); // critera 1

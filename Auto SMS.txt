@@ -1,0 +1,3 @@
+http://www.vopium.com/vopium/vopiumlowbalancecallback.htm?cdrId=".$last_insert_id
+
+<bean name="lowBalanceController" class="com.vopium.controller.payment.LowBalanceController">
